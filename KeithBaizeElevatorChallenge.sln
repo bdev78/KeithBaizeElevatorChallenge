@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeithBaizeElevatorChallenge", "KeithBaizeElevatorChallenge\KeithBaizeElevatorChallenge.csproj", "{34DE11C3-1532-476C-BB20-AC7CA8040B8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeithBaizeElevatorChallenge.Tests", "KeithBaizeElevatorChallenge.Tests\KeithBaizeElevatorChallenge.Tests.csproj", "{E2AF6B76-4EAE-4CC3-A9E8-8A4EACF39790}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{34DE11C3-1532-476C-BB20-AC7CA8040B8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34DE11C3-1532-476C-BB20-AC7CA8040B8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34DE11C3-1532-476C-BB20-AC7CA8040B8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34DE11C3-1532-476C-BB20-AC7CA8040B8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2AF6B76-4EAE-4CC3-A9E8-8A4EACF39790}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2AF6B76-4EAE-4CC3-A9E8-8A4EACF39790}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2AF6B76-4EAE-4CC3-A9E8-8A4EACF39790}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2AF6B76-4EAE-4CC3-A9E8-8A4EACF39790}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B26E9234-622F-4422-B0E3-41ED20C91542}
+	EndGlobalSection
+EndGlobal
